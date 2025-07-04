@@ -1,5 +1,5 @@
 # CLOUD-SECURITY-IMPLEMENTATION
-#Company: CodTech IT Solutions #Intern Name: KALAIYARASI S #Intern ID: CT04DF2844 #Domain: Cloud Computing #Duration: 4 Weeks #Mentor: Neela Santosh
+#Company: CodTech IT Solutions #Intern Name: HEMAPRIYA A #Intern ID: CT04DG693 #Domain: Cloud Computing #Duration: 4 Weeks #Mentor: Neela Santosh
 
 The goal of this task was to implement key cloud security components, including IAM (Identity and Access Management) policies, secure storage configurations, and data encryption mechanisms, using the Amazon Web Services (AWS) platform.
 
